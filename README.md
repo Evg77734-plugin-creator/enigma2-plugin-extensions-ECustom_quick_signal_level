@@ -34,8 +34,8 @@ SNR 100% = 19.6 dB
 Плагин никак не влияет на чувствительность тюнера, а только отображает на экране две шкалы уровня сигнала с возможностью корректировки.
 Может кому то будет интересно
 
-![screenshot_1](screenshots/pic1.jpg)
+<img src="screenshots/pic1.jpg" width="500" alt="screenshot_1">
 
-![screenshot_2](screenshots/pic2.jpg)
+<img src="screenshots/pic2.jpg" width="500" alt="screenshot_2">
 
-![screenshot_3](screenshots/pic3.jpg)
+<img src="screenshots/pic3.jpg" width="500" alt="screenshot_3">
